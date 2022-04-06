@@ -1,0 +1,45 @@
+[
+     {
+         "id": 1,
+         "nome": "Individual - Arena",
+         "valor": 150,
+         "quant": 100
+     },
+
+     {
+        "id": 2,
+        "nome": "Individual - Camarote",
+        "valor": 350,
+        "quant": 100
+    },
+
+    {
+        "id": 3,
+        "nome": "Individual - Front",
+        "valor": 250,
+        "quant": 100
+    },
+
+    {
+        "id": 4,
+        "nome": "Casadinha - Arena",
+        "valor": 240,
+        "quant": 100
+    },
+
+    {
+        "id": 5,
+        "nome": "Casadinha - Camarote",
+        "valor": 600,
+        "quant": 100
+    },
+
+    {
+        "id": 6,
+        "nome": "Casadinha - Front",
+        "valor": 450,
+        "quant": 100
+    }
+     
+     
+]
