@@ -11,6 +11,4 @@ app.post('/corpo', (req, res) => {
     console.log('resposta enviada...')
 })
 
-app.listen(3000, () => {
-    console.log('Backend executando...')
-})
+app.listen(process.env.PORT || 3000)
